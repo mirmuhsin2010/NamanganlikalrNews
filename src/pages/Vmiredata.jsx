@@ -12,6 +12,7 @@ const Vmiredata = () => {
     <div>
       <div>
         <h2>{data.title}</h2>
+        <img src={data.img} alt="" />
       </div>
     </div>
   )
